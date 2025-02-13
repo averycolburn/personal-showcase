@@ -28,6 +28,9 @@ h3 {
     font-family: "Trebuchet MS", sans-serif;
 }
 
+a {
+    color: black;
+}
   
 button {
     border: none;
@@ -40,12 +43,6 @@ button {
     cursor: pointer;
     width: 100%;
     font-size: 18px;
-    font-family: "Trebuchet MS", sans-serif;
-}
-  
-a {
-    font-size: 22px;
-    color: black;
     font-family: "Trebuchet MS", sans-serif;
 }
   
@@ -84,7 +81,6 @@ button:hover, a:hover {
 .bottombar {
     background-color: black;
     overflow: hidden;
-    position: fixed;
     bottom: 0;
     width: 100%;
 }
