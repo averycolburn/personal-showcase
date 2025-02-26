@@ -107,5 +107,11 @@ hr.dotted {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
+}
+
+.centered {
+    text-align: center; 
+    align: center;
+    float: center;
+}
   
