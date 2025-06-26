@@ -28,7 +28,7 @@ function highlightActiveNav() {
   };
 
   if (navLinks[page]) {
-    document.getElementById(navLinks[page]).classList.add('active');
+    document.getElementById(navLinks[page]).classList.add('active-nav');
   }
 }
 
